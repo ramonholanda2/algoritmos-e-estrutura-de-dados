@@ -1,0 +1,34 @@
+{
+  "salesDocument": "9000021710",
+  "items": [
+    {
+      "item": "8003805",
+      "schedule": [
+        {
+          "item": "C9786F2BCB751EDE848CB3A307C8C006",
+          "deliveryDate": "2023-06-29",
+          "quantity": "2",
+          "deliveryBlock": "12"
+        },
+        {
+          "item": "C9786F2BCB751EDE88CA6E3D28DB00FD",
+          "deliveryDate": "2023-07-27",
+          "quantity": "3",
+          "deliveryBlock": "12"
+        },
+        {
+          "item": "C9786F2BCB751EEE848C62A3FFF4B94B",
+          "deliveryDate": "2023-06-19",
+          "quantity": "4",
+          "deliveryBlock": ""
+        },
+        {
+          "item": "C9786F2BCB751EEE848CAE4E854CFFD7",
+          "deliveryDate": "2023-06-18",
+          "quantity": "4",
+          "deliveryBlock": ""
+        }
+      ]
+    }
+  ]
+}

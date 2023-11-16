@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ns0:OrdersByType xmlns:ns0="http://com.sap/b">
+
+    <order>
+        <type>external</type>
+        <itemGroup>
+            <category>Guitars</category>
+            <name>Fender Strat V1</name>
+            <name>Ovation Light</name>
+        </itemGroup>
+        <itemGroup>
+            <category>Percussion</category>
+            <name>Sticks (Standard)</name>
+        </itemGroup>
+    </order>
+
+    <order>
+        <type>internal</type>
+        <itemGroup>
+            <category>Harps</category>
+            <name> Hohner Cross Harp D-Dur </name>
+            <name> Hohner Pro Harp F-Dur </name>
+        </itemGroup>
+    </order>
+
+    <order>
+        <type>external</type>
+        <itemGroup>
+            <category>Harps</category>
+            <name> Hohner Riverboat C-Dur </name>
+        </itemGroup>
+    </order>
+
+</ns0:OrdersByType>
